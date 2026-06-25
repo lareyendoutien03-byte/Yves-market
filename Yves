@@ -1,0 +1,8 @@
+"Yves Market
+Catalogue et annonces de fruits
+body{font-family:Arial,sans-serif;background:#111;color:#fff}
+header{text-align:center;padding:20px}
+.card{background:#222;padding:20px;border-radius:10px;margin:20px}
+Bienvenue
+Site de démonstration."
+console.log('Yves Market chargé');
